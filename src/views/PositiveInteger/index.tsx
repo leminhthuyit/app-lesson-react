@@ -41,7 +41,7 @@ const PositiveInteger = () => {
       <Navigation />
       <IntroductionApp data={introductionData} />
       <div className="flex flex-col items-center mt-10">
-        <div className="h-60 w-1/2 p-10 flex flex-col items-center rounded-lg shadow-lg shadow-slate-500">
+        <div className="h-60 w-1/3 p-10 flex flex-col items-center rounded-lg shadow-lg shadow-slate-500">
           <input
             className="w-30 h-8 p-2 border border-black rounded"
             type="number"
